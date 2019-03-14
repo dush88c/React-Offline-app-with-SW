@@ -7,4 +7,4 @@ A simple react app bundled with webpack that works offline
  
   $ npm run prod
  
- open the browser with 127.0.0.1:8000
+ open the browser with 127.0.0.1:8000 to see the sample working in offline and online
