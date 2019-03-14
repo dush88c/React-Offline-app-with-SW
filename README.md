@@ -1,7 +1,7 @@
 # offline-react-app with PWA pattern
 A simple react app bundled with webpack that works offline
 
-#to run the sample application
+# to run the sample application
  
   $ npm install  
  
